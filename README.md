@@ -40,9 +40,13 @@ Dashboard ini tidak hanya sekadar alat bantu pribadi, tetapi merepresentasikan s
    ```
 
 3.Instal dependensi:
+
 ```bash
 pip install streamlit pandas yfinance plotly matplotlib
+```
 
 4.Jalankan aplikasi:
+
 ```Bash
 streamlit run app.py
+```
